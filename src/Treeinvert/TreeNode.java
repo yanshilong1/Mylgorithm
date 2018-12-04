@@ -3,6 +3,9 @@ package Treeinvert;
 /**
  * @Author: yanshilong
  * @Date: 18-12-4 上午11:58
+ *
+ *  function:生成平衡二叉树
+ *
  * @Version 1.0
  */
 public class TreeNode {
