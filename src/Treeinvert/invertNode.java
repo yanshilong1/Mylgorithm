@@ -1,17 +1,11 @@
 package Treeinvert;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 /**
  * @Author: yanshilong
  * @Date: 18-12-4 下午3:48
  * function:递归法实现二叉树生成反转二叉树
  * @Version 1.0
  */
-
-
-
 public class invertNode {
     public static TreeNode doinvert(TreeNode root){
         if(root==null)return root;//如果为空直接返回

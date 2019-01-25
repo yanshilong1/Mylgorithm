@@ -36,7 +36,7 @@ public class Test {
 
 
         System.out.println();
-        System.out.println("*****************************************************");
+        System.out.println("**********************反转结束*******************************");
         System.out.println("先根遍历:");
         NodeQuery.preOrder(newtree);
 
