@@ -1,4 +1,4 @@
-package Treeinvert;
+package Mytree.Treeinvert;
 
 /**
  * @Author: yanshilong
